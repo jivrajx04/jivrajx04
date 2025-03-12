@@ -1,4 +1,4 @@
-👋 Hi, I’m @jivrajx04
+👋 Hi, I’m jivraj kashid.
 
 👀 I’m interested in software development, web applications 
 🌱 I’m currently learning advanced algorithms and data structures.
