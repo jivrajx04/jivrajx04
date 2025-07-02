@@ -1,6 +1,6 @@
 👋 Hi, I’m jivraj kashid.
 
-👀 I’m interested in software development, web applications <br>
+👀 I’m interested in software development, web applications and cross-platform Mobile app development<br>
 🌱 I’m currently learning advanced algorithms and data structures. <br>
 💞️ I’m looking to collaborate on open-source projects and innovative app ideas.<br>
 📫 How to reach me: You can connect with me via email at jivrajkashid@gmail.com.<br>
